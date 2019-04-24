@@ -1,0 +1,4997 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.17378743780523,
+          34.7183135326428
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "NAME": "Little Rock Port",
+        "WATERWAY": "Arkansas River",
+        "STATE": "AR",
+        "STATE_FIPS": "05",
+        "GNIS_ID": 68714,
+        "GNIS_NAME": "Little Rock Port",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 34.718425,
+        "SOURCE_LON": -92.173758,
+        "LAT": 34.71830722,
+        "LONG": -92.173781
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.05833290441278,
+          30.76685470794479
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "NAME": "Port of Chickasaw",
+        "WATERWAY": "Chickasaw Creek",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 143671,
+        "GNIS_NAME": "Port of Chickasaw",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Mobile River",
+        "SOURCE_LAT": 30.766855,
+        "SOURCE_LON": -88.058333,
+        "LAT": 30.76684905,
+        "LONG": -88.058327809
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20857655161049,
+          37.513270057727325
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "NAME": "Port of Redwood City",
+        "WATERWAY": "Redwood Creek",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 230945,
+        "GNIS_NAME": "Port of Redwood City",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "San Francisco Bay",
+        "SOURCE_LAT": 37.51327,
+        "SOURCE_LON": -122.208577,
+        "LAT": 37.51326512,
+        "LONG": -122.208563398
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.60810947822762,
+          28.41139723169677
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "NAME": "Port Canaveral",
+        "WATERWAY": "Banana River",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 289232,
+        "GNIS_NAME": "Port Canaveral",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Atlantic Coast",
+        "SOURCE_LAT": 28.411392,
+        "SOURCE_LON": -80.608107,
+        "LAT": 28.4113919,
+        "LONG": -80.608106599
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5459298062746,
+          27.862802020265917
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "NAME": "Tampa",
+        "WATERWAY": "Tampa Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": "Hillsborough Bay",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 27.862796871,
+        "LONG": -82.545926382
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7698241065586,
+          28.16140191944805
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "NAME": "Port Tarpon",
+        "WATERWAY": "Anclote River",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 297364,
+        "GNIS_NAME": "Port Tarpon",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 28.161402,
+        "SOURCE_LON": -82.769824,
+        "LAT": 28.161396704,
+        "LONG": -82.769820608
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56148590547052,
+          27.633644320388473
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "NAME": "Port Manatee",
+        "WATERWAY": "Tampa Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 298048,
+        "GNIS_NAME": "Port Manatee",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 27.633644,
+        "SOURCE_LON": -82.561486,
+        "LAT": 27.633639227,
+        "LONG": -82.561482484
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05115240596749,
+          26.76700752580183
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "NAME": "Port of Palm Beach",
+        "WATERWAY": "Lake Worth",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 298927,
+        "GNIS_NAME": "Port of Palm Beach",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Atlantic Coast",
+        "SOURCE_LAT": 26.767007,
+        "SOURCE_LON": -80.051152,
+        "LAT": 26.767002586,
+        "LONG": -80.05114974
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.62982070520141,
+          27.76086112049189
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "NAME": "Port of Saint Petersburg",
+        "WATERWAY": "Tampa Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 301472,
+        "GNIS_NAME": "Port of Saint Petersburg",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 27.760861,
+        "SOURCE_LON": -82.629821,
+        "LAT": 27.760855998,
+        "LONG": -82.62981726
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.20150253906984,
+          30.434640980015995
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "NAME": "Greater Baton Rouge Port",
+        "WATERWAY": "Mississippi River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 535374,
+        "GNIS_NAME": "Greater Baton Rouge Port",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 30.434635,
+        "SOURCE_LON": -91.201497,
+        "LAT": 30.4346355,
+        "LONG": -91.2014966
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09309330197577,
+          30.361308806883148
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "NAME": "Port of Gulfport",
+        "WATERWAY": "Mississippi Sound",
+        "STATE": "MS",
+        "STATE_FIPS": 28,
+        "GNIS_ID": 690105,
+        "GNIS_NAME": "Port of Gulfport",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 30.361309,
+        "SOURCE_LON": -89.093093,
+        "LAT": 30.361303272,
+        "LONG": -89.093087939
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.86392374827705,
+          42.849502604655605
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "NAME": "Port of Buffalo Small Boat Harbor",
+        "WATERWAY": "Lake Erie",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 973444,
+        "GNIS_NAME": "Port of Buffalo Small Boat Harbor",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 42.849503,
+        "SOURCE_LON": -78.863924,
+        "LAT": 42.849494139,
+        "LONG": -78.863920598
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.66808585860556,
+          45.85252949305797
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "NAME": "Port of Morrow Harbor",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 1129778,
+        "GNIS_NAME": "Port of Morrow Harbor",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 45.852524,
+        "SOURCE_LON": -119.668072,
+        "LAT": 45.8525237,
+        "LONG": -119.6680718
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.26868405079067,
+          42.047639348822706
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "NAME": "Port of Brookings Harbor",
+        "WATERWAY": "Chetco River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 1154284,
+        "GNIS_NAME": "Port of Brookings Harbor",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Atlantic Coast",
+        "SOURCE_LAT": 42.047639,
+        "SOURCE_LON": -124.268684,
+        "LAT": 42.047634247,
+        "LONG": -124.268669973
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89176526180543,
+          45.67161624438395
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "NAME": "Port of Cascade Locks",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.67161069,
+        "LONG": -121.891750872
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.8574999601254,
+          57.862222118559316
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "NAME": "Port Wakefield",
+        "WATERWAY": "Kizhuyak Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 1411733,
+        "GNIS_NAME": "Port Wakefield",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 57.862222,
+        "SOURCE_LON": -152.8575,
+        "LAT": 57.862220721,
+        "LONG": -152.857479045
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.88611106710064,
+          61.24027771133652
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "NAME": "Port of Anchorage",
+        "WATERWAY": "Knik Arm",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 1424961,
+        "GNIS_NAME": "Port of Anchorage",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 61.240278,
+        "SOURCE_LON": -149.886111,
+        "LAT": 61.240276073,
+        "LONG": -149.886088006
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01321567350425,
+          48.53822695913065
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "NAME": "Port of Friday Harbor",
+        "WATERWAY": "Friday Harbor",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 1514914,
+        "GNIS_NAME": "Port of Friday Harbor",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "San Juan Channel",
+        "SOURCE_LAT": 48.536766,
+        "SOURCE_LON": -123.01518,
+        "LAT": 48.536760651,
+        "LONG": -123.01516473
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2953475472278,
+          45.32056228974131
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "NAME": "Port Medusa",
+        "WATERWAY": "Lake Michigan",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 1617311,
+        "GNIS_NAME": "Port Medusa",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 45.320562,
+        "SOURCE_LON": -85.295347,
+        "LAT": 45.320553734,
+        "LONG": -85.295342131
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.21645805563374,
+          33.754184967448694
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "NAME": "Port of Long Beach",
+        "WATERWAY": "San Pedro Bay",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 1702698,
+        "GNIS_NAME": "Port of Long Beach",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 33.754185,
+        "SOURCE_LON": -118.216458,
+        "LAT": 33.754180143,
+        "LONG": -118.216445897
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.26201505629065,
+          33.72918576714256
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "NAME": "Port of Los Angeles",
+        "WATERWAY": "San Pedro Bay",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 1702699,
+        "GNIS_NAME": "Port of Los Angeles",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 33.729186,
+        "SOURCE_LON": -118.262015,
+        "LAT": 33.729180948,
+        "LONG": -118.262002892
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.20871905490583,
+          34.149171765577286
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "NAME": "Port of Hueneme",
+        "WATERWAY": "Pacific Coast",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 1702936,
+        "GNIS_NAME": "Port of Hueneme",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 34.14945,
+        "SOURCE_LON": -119.208441,
+        "LAT": 34.149166954,
+        "LONG": -119.2087067
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.92082846424327,
+          61.273118117257155
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "NAME": "Port MacKenzie",
+        "WATERWAY": "Knik Arm",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 2044757,
+        "GNIS_NAME": "Port MacKenzie",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 61.268056,
+        "SOURCE_LON": -149.916944,
+        "LAT": 61.26805388,
+        "LONG": -149.916921287
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.804201092293,
+          29.30705800029138
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "NAME": "Port of Galveston",
+        "WATERWAY": "Galveston Bay",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 2498259,
+        "GNIS_NAME": "Port of Galveston",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 29.307058,
+        "SOURCE_LON": -94.804201,
+        "LAT": 29.307052878,
+        "LONG": -94.804194254
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35297706373899,
+          47.61374293969577
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "NAME": "Port of Seattle",
+        "WATERWAY": "Puget Sound",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 2547282,
+        "GNIS_NAME": "Port of Seattle",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 47.613743,
+        "SOURCE_LON": -122.352977,
+        "LAT": 47.613737325,
+        "LONG": -122.352962165
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.91313215653959,
+          45.556055642421114
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "NAME": "Port of Garibaldi",
+        "WATERWAY": "Tillamook Bay",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 2668339,
+        "GNIS_NAME": "Port of Garibaldi",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Pacific Coast",
+        "SOURCE_LAT": 45.556056,
+        "SOURCE_LON": -123.913132,
+        "LAT": 45.556050303,
+        "LONG": -123.913117479
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.83470799709316,
+          45.82759967312709
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "NAME": "Saint Helens",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.827594207,
+        "LONG": -122.834693426
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.05210005442888,
+          44.62228384443412
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "NAME": "Newport",
+        "WATERWAY": "Yaquina Bay",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": "Pacific Coast",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.62227857,
+        "LONG": -124.052085546
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1023523009318,
+          43.966828532445064
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "NAME": "Florence",
+        "WATERWAY": "Suislaw River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": "Pacific Coast",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.9668233,
+        "LONG": -124.102337911
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.41127625251681,
+          43.12068224657781
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "NAME": "Port of Bandon",
+        "WATERWAY": "Coquille River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 2668517,
+        "GNIS_NAME": "Port of Bandon",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Pacific Coast",
+        "SOURCE_LAT": 43.120682,
+        "SOURCE_LON": -124.411276,
+        "LAT": 43.120677093,
+        "LONG": -124.411261972
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.85816435723285,
+          46.18952194138033
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "NAME": "Port of Astoria",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 2668526,
+        "GNIS_NAME": "Port of Astoria",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 46.189522,
+        "SOURCE_LON": -123.858164,
+        "LAT": 46.189516563,
+        "LONG": -123.858149552
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.77066775041226,
+          17.70603361074882
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "NAME": "Port Harvey",
+        "WATERWAY": "Caribbean Sea",
+        "STATE": "VI",
+        "STATE_FIPS": 78,
+        "GNIS_ID": 2680032,
+        "GNIS_NAME": "Port Harvey",
+        "SOURCE": "GNIS_PORTS",
+        "SECONDARY_": "Sargasso Sea",
+        "SOURCE_LAT": 17.706031,
+        "SOURCE_LON": -64.77067,
+        "LAT": 17.7060309,
+        "LONG": -64.7706699
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.17340006426664,
+          45.602479389588666
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "NAME": "Port of The Dalles",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.602473766,
+        "LONG": -121.173385805
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.50769294712715,
+          45.71528699743216
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "NAME": "Port of Hood River",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.715281401,
+        "LONG": -121.50767861
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68376355860082,
+          42.75535686612422
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "NAME": "Albany--Schenectady",
+        "WATERWAY": "Hudson River",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.755348208,
+        "LONG": -73.683762084
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78125721283607,
+          38.01508725103023
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "NAME": "Antioch",
+        "WATERWAY": "San Joaquin River",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.01508224,
+        "LONG": -121.781244066
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.49100331551689,
+          39.34922640707057
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "NAME": "Atlantic City",
+        "WATERWAY": "Atlantic Coast",
+        "STATE": "NJ",
+        "STATE_FIPS": 34,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 39.349218439,
+        "LONG": -74.491001793
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54697547419677,
+          39.25424116134412
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "NAME": "Baltimore",
+        "WATERWAY": "Severn River",
+        "STATE": "MD",
+        "STATE_FIPS": 24,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Chesapeake Bay",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.983576345,
+        "LONG": -76.47093042
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81221970934027,
+          26.21577880630511
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "NAME": "Bonita Springs",
+        "WATERWAY": "Gulf of Mexico",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 26.215774044,
+        "LONG": -81.812216546
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.04868841944159,
+          42.361075323898554
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "NAME": "Boston",
+        "WATERWAY": "Boston Harbor",
+        "STATE": "MA",
+        "STATE_FIPS": 25,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.346897554,
+        "LONG": -71.008927381
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2100022293882,
+          41.15398626415281
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "NAME": "Bridgeport--Stamford",
+        "WATERWAY": "Long Island Sound",
+        "STATE": "CT",
+        "STATE_FIPS": "09",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.153977894,
+        "LONG": -73.21000101
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33997848273496,
+          25.97702450211343
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "NAME": "Brownsville",
+        "WATERWAY": "Brownsville Ship Channel",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 25.977020152,
+        "LONG": -97.33997112
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49116576854817,
+          31.122074842226684
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "NAME": "Brunswick",
+        "WATERWAY": "Intracoastal Waterway",
+        "STATE": "GA",
+        "STATE_FIPS": 13,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 31.122068894,
+        "LONG": -81.491162531
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.02288984046994,
+          26.510454515819134
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "NAME": "Cape Coral",
+        "WATERWAY": "San Carlos Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 26.510449685,
+        "LONG": -82.022886608
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.22844458480317,
+          35.10478453902668
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "NAME": "Chattanooga",
+        "WATERWAY": "Tennesse River",
+        "STATE": "TN",
+        "STATE_FIPS": 47,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 35.104777852,
+        "LONG": -85.228440063
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71621905511122,
+          41.49850560251974
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "NAME": "Cleveland",
+        "WATERWAY": "Lake Erie",
+        "STATE": "OH",
+        "STATE_FIPS": 39,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.498497513,
+        "LONG": -81.716215124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.39823821725226,
+          27.826135108837573
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "NAME": "Corpus Christi",
+        "WATERWAY": "Corpus Christ Bay",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf of Mexio",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 27.826130373,
+        "LONG": -97.39823078
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.31645862983842,
+          38.93312245594814
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "NAME": "Delaware",
+        "WATERWAY": "Delaware Bay",
+        "STATE": "DE",
+        "STATE_FIPS": 10,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.933114601,
+        "LONG": -75.316456871
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09609247193174,
+          42.295816455222415
+        ]
+      },
+      "properties": {
+        "FID": 48,
+        "NAME": "Detroit",
+        "WATERWAY": "Lake Huron",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.295808289,
+        "LONG": -83.096088047
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09872348692987,
+          46.749419315619676
+        ]
+      },
+      "properties": {
+        "FID": 49,
+        "NAME": "Duluth",
+        "WATERWAY": "Lake Superior",
+        "STATE": "WI",
+        "STATE_FIPS": 55,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.749410987,
+        "LONG": -92.098715818
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08825434864579,
+          42.145613355950886
+        ]
+      },
+      "properties": {
+        "FID": 50,
+        "NAME": "Erie",
+        "WATERWAY": "Lake Erie",
+        "STATE": "PA",
+        "STATE_FIPS": 42,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.145605073,
+        "LONG": -80.08825087
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1772844499256,
+          40.80373755276307
+        ]
+      },
+      "properties": {
+        "FID": 51,
+        "NAME": "Eureka",
+        "WATERWAY": "Humboldt Bay",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 40.803732523,
+        "LONG": -124.177270579
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5889990459232,
+          44.76450107571735
+        ]
+      },
+      "properties": {
+        "FID": 52,
+        "NAME": "Traverse City",
+        "WATERWAY": "Grand Traverse Bay",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.764492626,
+        "LONG": -85.588993603
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.00426078574814,
+          44.54010611646495
+        ]
+      },
+      "properties": {
+        "FID": 53,
+        "NAME": "Green Bay",
+        "WATERWAY": "Green Bay",
+        "STATE": "WI",
+        "STATE_FIPS": 55,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.540097846,
+        "LONG": -88.004254634
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47785815186518,
+          30.41360013604109
+        ]
+      },
+      "properties": {
+        "FID": 54,
+        "NAME": "Hammond",
+        "WATERWAY": "Yellow Water River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Lake Maurepas",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.413594636,
+        "LONG": -90.477852409
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.05499998293357,
+          19.735277781654474
+        ]
+      },
+      "properties": {
+        "FID": 55,
+        "NAME": "Hilo",
+        "WATERWAY": "Hilo Bay",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 19.735274321,
+        "LONG": -155.054985472
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.87208332582117,
+          21.31412223825358
+        ]
+      },
+      "properties": {
+        "FID": 56,
+        "NAME": "Honolulu",
+        "WATERWAY": "Mamala Bay",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 21.314118815,
+        "LONG": -157.872068924
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.70390076468269,
+          34.58870353091179
+        ]
+      },
+      "properties": {
+        "FID": 57,
+        "NAME": "Huntsville",
+        "WATERWAY": "Tennessee River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 34.58869701,
+        "LONG": -86.703895851
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13332318623857,
+          27.91030089987138
+        ]
+      },
+      "properties": {
+        "FID": 58,
+        "NAME": "Ingleside--Aransas Pass",
+        "WATERWAY": "Redfish Bay",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 27.910296139,
+        "LONG": -97.133315812
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53148720445475,
+          30.40324028543653
+        ]
+      },
+      "properties": {
+        "FID": 59,
+        "NAME": "Jacksonville",
+        "WATERWAY": "St. Johns River",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.403234505,
+        "LONG": -81.531483984
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.43456536416303,
+          58.305965281411545
+        ]
+      },
+      "properties": {
+        "FID": 60,
+        "NAME": "Juneau",
+        "WATERWAY": "Gastineau Channel",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 58.30638461,
+        "LONG": -134.433312841
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.02694438148748,
+          19.671944382061053
+        ]
+      },
+      "properties": {
+        "FID": 61,
+        "NAME": "Kailua",
+        "WATERWAY": "Honokohau Bay",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 19.671940899,
+        "LONG": -156.026929892
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.78333327446538,
+          22.033333280102536
+        ]
+      },
+      "properties": {
+        "FID": 62,
+        "NAME": "Kauai",
+        "WATERWAY": "Pacific Oean",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 22.033329885,
+        "LONG": -159.783318961
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.83333328157593,
+          20.03666668176314
+        ]
+      },
+      "properties": {
+        "FID": 63,
+        "NAME": "Kawaihae Harbor",
+        "WATERWAY": "Kawaihae Bay",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 20.03666322,
+        "LONG": -155.833318795
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43125697788027,
+          25.089943648088976
+        ]
+      },
+      "properties": {
+        "FID": 64,
+        "NAME": "Key Largo",
+        "WATERWAY": "Gulf Intercoastal Waterway",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 25.23549546,
+        "LONG": -80.430776124
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.73314570073957,
+          24.56292422647502
+        ]
+      },
+      "properties": {
+        "FID": 65,
+        "NAME": "Key West",
+        "WATERWAY": "Straits of Florida",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 24.56291988,
+        "LONG": -81.733142602
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.92453473988687,
+          35.94619025809688
+        ]
+      },
+      "properties": {
+        "FID": 66,
+        "NAME": "Knoxville",
+        "WATERWAY": "Tennessee River",
+        "STATE": "TN",
+        "STATE_FIPS": 47,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 35.946183345,
+        "LONG": -83.924530546
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.40833326161973,
+          57.78749992128797
+        ]
+      },
+      "properties": {
+        "FID": 67,
+        "NAME": "Kodiak",
+        "WATERWAY": "Paul Harbor",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Chiniak Bay",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 57.78749845,
+        "LONG": -152.408312373
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.27643754107481,
+          43.82836043160554
+        ]
+      },
+      "properties": {
+        "FID": 68,
+        "NAME": "La Crosse",
+        "WATERWAY": "Mississippi River",
+        "STATE": "MN",
+        "STATE_FIPS": 27,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.828352478,
+        "LONG": -91.276430511
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26921175570679,
+          30.214728240826876
+        ]
+      },
+      "properties": {
+        "FID": 69,
+        "NAME": "Lake Charles",
+        "WATERWAY": "Calcasieu River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.214722878,
+        "LONG": -93.269205277
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4308100269059,
+          44.927407708352426
+        ]
+      },
+      "properties": {
+        "FID": 70,
+        "NAME": "Lake Huron",
+        "WATERWAY": "Lake Huron",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.927399111,
+        "LONG": -83.430805237
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.29816829488925,
+          28.9389871248752
+        ]
+      },
+      "properties": {
+        "FID": 71,
+        "NAME": "Lake Jackson--Angleton",
+        "WATERWAY": "Gulf of Mexico",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 28.938982095,
+        "LONG": -95.298161345
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.88628028582377,
+          20.74202614306634
+        ]
+      },
+      "properties": {
+        "FID": 72,
+        "NAME": "Lanai City",
+        "WATERWAY": "Pacific Ocean",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 20.7420227,
+        "LONG": -156.886265842
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58023948925482,
+          44.1561309718431
+        ]
+      },
+      "properties": {
+        "FID": 73,
+        "NAME": "Manitowoc",
+        "WATERWAY": "Lake Michigan",
+        "STATE": "WI",
+        "STATE_FIPS": 55,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.156122737,
+        "LONG": -87.58023351
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.47266037274366,
+          20.89739804487941
+        ]
+      },
+      "properties": {
+        "FID": 74,
+        "NAME": "Maui",
+        "WATERWAY": "Kahului Harbor",
+        "STATE": "HI",
+        "STATE_FIPS": 15,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 20.897394616,
+        "LONG": -156.472645919
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17294124944446,
+          25.843735656528615
+        ]
+      },
+      "properties": {
+        "FID": 75,
+        "NAME": "Miami",
+        "WATERWAY": "Biscayne Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 25.843730952,
+        "LONG": -80.172938573
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.88505339385331,
+          43.049768586451016
+        ]
+      },
+      "properties": {
+        "FID": 76,
+        "NAME": "Milwaukee",
+        "WATERWAY": "Lake Michigan",
+        "STATE": "WI",
+        "STATE_FIPS": 55,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.04976055,
+        "LONG": -87.885047447
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.70480012808717,
+          34.72055002797187
+        ]
+      },
+      "properties": {
+        "FID": 77,
+        "NAME": "Morehead City",
+        "WATERWAY": "Atlantic Intracoastal Waterway",
+        "STATE": "NC",
+        "STATE_FIPS": 37,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 34.720543115,
+        "LONG": -76.70479816
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1852686332689,
+          29.71831484087493
+        ]
+      },
+      "properties": {
+        "FID": 78,
+        "NAME": "Morgan City",
+        "WATERWAY": "Lower Atchafalaya River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.718309514,
+        "LONG": -91.18526273
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.09690486246213,
+          41.28397605730517
+        ]
+      },
+      "properties": {
+        "FID": 79,
+        "NAME": "Nantucket",
+        "WATERWAY": "Nantucket Sound",
+        "STATE": "MA",
+        "STATE_FIPS": 25,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Atlantic Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.303090292,
+        "LONG": -70.022314904
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77834180153758,
+          40.894378175887816
+        ]
+      },
+      "properties": {
+        "FID": 80,
+        "NAME": "New York--Newark",
+        "WATERWAY": "Long Island Sound",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Atlantic Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 40.894369876,
+        "LONG": -73.778340415
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91862363408252,
+          26.7585231927714
+        ]
+      },
+      "properties": {
+        "FID": 81,
+        "NAME": "Clewiston",
+        "WATERWAY": "Lake Okeechobee",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 26.758518275,
+        "LONG": -80.918620715
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.21256151434913,
+          26.059730207694123
+        ]
+      },
+      "properties": {
+        "FID": 82,
+        "NAME": "Port Isabel",
+        "WATERWAY": "Laguna Madre",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 1375533,
+        "GNIS_NAME": "Port Isabel",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 26.059725837,
+        "LONG": -97.212554181
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.62059984183031,
+          28.620133275512003
+        ]
+      },
+      "properties": {
+        "FID": 83,
+        "NAME": "Port Lavaca",
+        "WATERWAY": "Lavaca Bay",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 28.620128353,
+        "LONG": -96.620592569
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.24729448447619,
+          43.656282401467024
+        ]
+      },
+      "properties": {
+        "FID": 84,
+        "NAME": "Portland, ME",
+        "WATERWAY": "Fore River",
+        "STATE": "ME",
+        "STATE_FIPS": 23,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.657573379,
+        "LONG": -70.240603266
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.74501975995553,
+          43.07069942022579
+        ]
+      },
+      "properties": {
+        "FID": 85,
+        "NAME": "Portsmouth",
+        "WATERWAY": "Webhannet River",
+        "STATE": "ME",
+        "STATE_FIPS": 23,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Atlantic Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.321465951,
+        "LONG": -70.559497078
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95290592538237,
+          41.59810618385285
+        ]
+      },
+      "properties": {
+        "FID": 86,
+        "NAME": "Poughkeepsie--Newburgh",
+        "WATERWAY": "Hudson River",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.598097754,
+        "LONG": -73.952904439
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.41692725068334,
+          37.421449214989785
+        ]
+      },
+      "properties": {
+        "FID": 87,
+        "NAME": "Richmond",
+        "WATERWAY": "James River/ Coastal",
+        "STATE": "VA",
+        "STATE_FIPS": 51,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 37.421441746,
+        "LONG": -77.416924925
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.60305745180663,
+          43.258395108507536
+        ]
+      },
+      "properties": {
+        "FID": 88,
+        "NAME": "Rochester",
+        "WATERWAY": "Lake Ontario",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.258386514,
+        "LONG": -77.603054671
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03389320922528,
+          28.04120393380378
+        ]
+      },
+      "properties": {
+        "FID": 89,
+        "NAME": "Rockport",
+        "WATERWAY": "Aransas Bay",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Gulf of Mexico",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 28.041199143,
+        "LONG": -97.033885855
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.85281637808008,
+          43.65263636423225
+        ]
+      },
+      "properties": {
+        "FID": 90,
+        "NAME": "Bay City",
+        "WATERWAY": "Saginaw Bay",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 43.652628002,
+        "LONG": -83.85281159
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19188147533997,
+          39.87718662226619
+        ]
+      },
+      "properties": {
+        "FID": 91,
+        "NAME": "Philadelphia",
+        "WATERWAY": "Delaware River",
+        "STATE": "NJ",
+        "STATE_FIPS": 34,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 39.877178573,
+        "LONG": -75.1918797
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2537268871666,
+          37.78180764487007
+        ]
+      },
+      "properties": {
+        "FID": 92,
+        "NAME": "San Francisco-Oakland",
+        "WATERWAY": "San Francisco Bay",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Pacific Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 37.781802688,
+        "LONG": -122.253713696
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.10013043273592,
+          18.451402547670913
+        ]
+      },
+      "properties": {
+        "FID": 93,
+        "NAME": "San Juan",
+        "WATERWAY": "Caribbean Sea",
+        "STATE": "PR",
+        "STATE_FIPS": 72,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Sargasso Sea",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 18.345021321,
+        "LONG": -65.633476072
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10458728250997,
+          32.09171167590061
+        ]
+      },
+      "properties": {
+        "FID": 94,
+        "NAME": "Savannah",
+        "WATERWAY": "Savannah River",
+        "STATE": "GA",
+        "STATE_FIPS": 13,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.132548581,
+        "LONG": -81.119176706
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.41756002143975,
+          44.7428392684144
+        ]
+      },
+      "properties": {
+        "FID": 95,
+        "NAME": "St. Lawrence River",
+        "WATERWAY": "St. Lawrence River",
+        "STATE": "NY",
+        "STATE_FIPS": 36,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.742830319,
+        "LONG": -75.417557832
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45777253316204,
+          41.69958717588595
+        ]
+      },
+      "properties": {
+        "FID": 96,
+        "NAME": "Toledo",
+        "WATERWAY": "Lake Erie/ Maumee River",
+        "STATE": "OH",
+        "STATE_FIPS": 39,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.699579134,
+        "LONG": -83.457768051
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97331238295305,
+          36.84615401529946
+        ]
+      },
+      "properties": {
+        "FID": 97,
+        "NAME": "Virginia Beach",
+        "WATERWAY": "Chesapeake Bay",
+        "STATE": "VA",
+        "STATE_FIPS": 51,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Atlantic Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.922438224,
+        "LONG": -76.18573298
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04886613911414,
+          38.87316781504018
+        ]
+      },
+      "properties": {
+        "FID": 98,
+        "NAME": "Washington, DC",
+        "WATERWAY": "Potomac River",
+        "STATE": "DC",
+        "STATE_FIPS": 11,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.873160035,
+        "LONG": -77.048863842
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.95661334209173,
+          34.19237281140564
+        ]
+      },
+      "properties": {
+        "FID": 99,
+        "NAME": "Wilmington",
+        "WATERWAY": "Cape Fear River",
+        "STATE": "NC",
+        "STATE_FIPS": 37,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 34.113791224,
+        "LONG": -77.931839731
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91012615115599,
+          41.2968970181519
+        ]
+      },
+      "properties": {
+        "FID": 100,
+        "NAME": "New Haven",
+        "WATERWAY": "Connecticut River",
+        "STATE": "CT",
+        "STATE_FIPS": "09",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.42973686,
+        "LONG": -72.440589185
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0931095977103,
+          41.38382672632171
+        ]
+      },
+      "properties": {
+        "FID": 101,
+        "NAME": "Norwich--New London",
+        "WATERWAY": "Thames River",
+        "STATE": "CT",
+        "STATE_FIPS": "09",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.383818274,
+        "LONG": -72.093108726
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.39913544927425,
+          41.80761619680628
+        ]
+      },
+      "properties": {
+        "FID": 102,
+        "NAME": "Providence",
+        "WATERWAY": "Narragansett Bay",
+        "STATE": "RI",
+        "STATE_FIPS": 44,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.573501589,
+        "LONG": -71.320498458
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.92083729856698,
+          41.63824420622878
+        ]
+      },
+      "properties": {
+        "FID": 103,
+        "NAME": "New Bedford",
+        "WATERWAY": "Buzzards Bay",
+        "STATE": "MA",
+        "STATE_FIPS": 25,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.64115759,
+        "LONG": -70.70610473
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.91455926127006,
+          32.77566038473257
+        ]
+      },
+      "properties": {
+        "FID": 104,
+        "NAME": "Charleston",
+        "WATERWAY": "Charleston Harbor",
+        "STATE": "SC",
+        "STATE_FIPS": 45,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.77565401,
+        "LONG": -79.914556417
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10101116295934,
+          29.680377591389412
+        ]
+      },
+      "properties": {
+        "FID": 105,
+        "NAME": "Lafitte",
+        "WATERWAY": "Gulf Intracoastal Waterway",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.680372238,
+        "LONG": -90.101005554
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71953397078799,
+          29.595779012251334
+        ]
+      },
+      "properties": {
+        "FID": 106,
+        "NAME": "Houma",
+        "WATERWAY": "Gulf Intracoastal Waterway",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.595773697,
+        "LONG": -90.719528198
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.21422223488626,
+          29.120027533761004
+        ]
+      },
+      "properties": {
+        "FID": 107,
+        "NAME": "Fourchon",
+        "WATERWAY": "Gulf Coast",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.120022307,
+        "LONG": -90.214216618
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.84202265433512,
+          29.84253816216638
+        ]
+      },
+      "properties": {
+        "FID": 108,
+        "NAME": "West St. Mary",
+        "WATERWAY": "Gulf Intracoastal Waterway",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.84253283,
+        "LONG": -91.84201657
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.84369712983552,
+          29.935845632046636
+        ]
+      },
+      "properties": {
+        "FID": 109,
+        "NAME": "Iberia",
+        "WATERWAY": "Gulf Coast",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.93584028,
+        "LONG": -91.843691041
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.00879650437199,
+          30.02018865599268
+        ]
+      },
+      "properties": {
+        "FID": 110,
+        "NAME": "Port Arthur, Beaumont, and Orange",
+        "WATERWAY": "Neches River",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.020183359,
+        "LONG": -94.008789841
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.72310768416764,
+          30.071850034488904
+        ]
+      },
+      "properties": {
+        "FID": 111,
+        "NAME": "Port Arthur",
+        "WATERWAY": "Sabine River",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.071844717,
+        "LONG": -93.723101093
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5085418224614,
+          38.57571804744719
+        ]
+      },
+      "properties": {
+        "FID": 112,
+        "NAME": "Sacramento",
+        "WATERWAY": "Sacramento River",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.575712969,
+        "LONG": -121.50852865
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17216711912765,
+          32.704114723912305
+        ]
+      },
+      "properties": {
+        "FID": 113,
+        "NAME": "San Diego",
+        "WATERWAY": "San Diego Bay",
+        "STATE": "CA",
+        "STATE_FIPS": "06",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.704109965,
+        "LONG": -117.172155217
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.34977821865573,
+          61.12010826610834
+        ]
+      },
+      "properties": {
+        "FID": 114,
+        "NAME": "Valdez",
+        "WATERWAY": "Port Valdez",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 61.116091315,
+        "LONG": -146.348264163
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.68368901248988,
+          60.77603389818223
+        ]
+      },
+      "properties": {
+        "FID": 115,
+        "NAME": "Whittier",
+        "WATERWAY": "Passage Canal",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 60.773633782,
+        "LONG": -148.682991936
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4340129063904,
+          60.10466068069634
+        ]
+      },
+      "properties": {
+        "FID": 116,
+        "NAME": "Seward",
+        "WATERWAY": "Resurrection Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 60.104658897,
+        "LONG": -149.433990604
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7149644132123,
+          59.440496478479126
+        ]
+      },
+      "properties": {
+        "FID": 117,
+        "NAME": "Seldovia",
+        "WATERWAY": "Seldovia Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.436615844,
+        "LONG": -151.722550791
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4139764541876,
+          59.59977020040738
+        ]
+      },
+      "properties": {
+        "FID": 118,
+        "NAME": "Homer",
+        "WATERWAY": "Kachemak Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.599768699,
+        "LONG": -151.4139545
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.22779940048034,
+          60.54919286764952
+        ]
+      },
+      "properties": {
+        "FID": 119,
+        "NAME": "Kenai",
+        "WATERWAY": "Kenai River",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 60.549191401,
+        "LONG": -151.227776835
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.50332740922468,
+          55.336466421349414
+        ]
+      },
+      "properties": {
+        "FID": 120,
+        "NAME": "Sand Point",
+        "WATERWAY": "Popof Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.330651444,
+        "LONG": -160.506772858
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.976452281673,
+          58.73622284346588
+        ]
+      },
+      "properties": {
+        "FID": 121,
+        "NAME": "Naknek",
+        "WATERWAY": "Naknek River",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 58.73827249,
+        "LONG": -156.970812835
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.47712357295774,
+          59.037413023807716
+        ]
+      },
+      "properties": {
+        "FID": 122,
+        "NAME": "Dillingham",
+        "WATERWAY": "Nushagak Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.03437223,
+        "LONG": -158.476786916
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -161.7552603616021,
+          60.79113906838066
+        ]
+      },
+      "properties": {
+        "FID": 123,
+        "NAME": "Bethel",
+        "WATERWAY": "Kushokwim River",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 60.791139297,
+        "LONG": -161.755238308
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.42582304824995,
+          64.50138657901489
+        ]
+      },
+      "properties": {
+        "FID": 124,
+        "NAME": "Nome",
+        "WATERWAY": "Snake River",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 64.501387774,
+        "LONG": -165.425798645
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.59744301879684,
+          66.89982130636456
+        ]
+      },
+      "properties": {
+        "FID": 125,
+        "NAME": "Kotzebue",
+        "WATERWAY": "Kotzebue Sound",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 66.899822274,
+        "LONG": -162.59741584
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.75493476839884,
+          64.84349940587701
+        ]
+      },
+      "properties": {
+        "FID": 126,
+        "NAME": "Fairbanks",
+        "WATERWAY": "Chena River",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 64.843497638,
+        "LONG": -147.754908739
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.76457541069288,
+          60.546348135927246
+        ]
+      },
+      "properties": {
+        "FID": 127,
+        "NAME": "Cordova",
+        "WATERWAY": "Orca Inlet",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 60.546345787,
+        "LONG": -145.764552842
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.30195792877774,
+          57.2037709002634
+        ]
+      },
+      "properties": {
+        "FID": 128,
+        "NAME": "Old harbor",
+        "WATERWAY": "Sitkalidak Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 57.203769523,
+        "LONG": -153.301937373
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.73333399087932,
+          59.54723284230427
+        ]
+      },
+      "properties": {
+        "FID": 129,
+        "NAME": "Yakutat",
+        "WATERWAY": "Monti Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.547229486,
+        "LONG": -139.733312325
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.32337144653437,
+          59.44994410980562
+        ]
+      },
+      "properties": {
+        "FID": 130,
+        "NAME": "Skagway",
+        "WATERWAY": "Taiya Inlet",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.448485629,
+        "LONG": -135.326083211
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.44171120523987,
+          59.23215413987094
+        ]
+      },
+      "properties": {
+        "FID": 131,
+        "NAME": "Haines",
+        "WATERWAY": "Port Chilkoot",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 59.232256661,
+        "LONG": -135.433464388
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.230294915652,
+          57.96038333869219
+        ]
+      },
+      "properties": {
+        "FID": 132,
+        "NAME": "Pelican",
+        "WATERWAY": "Lisianski Inlet",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 57.956063312,
+        "LONG": -136.23185863
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.44622954676714,
+          58.11254574890163
+        ]
+      },
+      "properties": {
+        "FID": 133,
+        "NAME": "Hoonah",
+        "WATERWAY": "Port Frederick",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 1403489,
+        "GNIS_NAME": "Hoonah Harbor",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 58.110741975,
+        "LONG": -135.451277814
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.66139184411577,
+          58.38329731464868
+        ]
+      },
+      "properties": {
+        "FID": 134,
+        "NAME": "Lisianski Inlet",
+        "WATERWAY": "Auke Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 58.383293142,
+        "LONG": -134.661371285
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.32283156994123,
+          57.04982365431739
+        ]
+      },
+      "properties": {
+        "FID": 135,
+        "NAME": "Sitka",
+        "WATERWAY": "Sitka Harbor",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 57.04981956,
+        "LONG": -135.322811647
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.57170712863496,
+          57.49683832171775
+        ]
+      },
+      "properties": {
+        "FID": 136,
+        "NAME": "Angoon",
+        "WATERWAY": "Chatham Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 57.494457449,
+        "LONG": -134.579039971
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.92444275277586,
+          56.9631474817858
+        ]
+      },
+      "properties": {
+        "FID": 137,
+        "NAME": "Kake",
+        "WATERWAY": "Keku Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 56.963143179,
+        "LONG": -133.924423013
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.14460193312624,
+          55.47608091468826
+        ]
+      },
+      "properties": {
+        "FID": 138,
+        "NAME": "Craig",
+        "WATERWAY": "Klawock Inlet/ Bucareli Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.476669764,
+        "LONG": -133.145411629
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.53226759557225,
+          55.68371129172033
+        ]
+      },
+      "properties": {
+        "FID": 139,
+        "NAME": "Thorne Bay",
+        "WATERWAY": "Thorne Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.683706777,
+        "LONG": -132.53224861
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.82342265890867,
+          55.20519264797063
+        ]
+      },
+      "properties": {
+        "FID": 140,
+        "NAME": "Hydaburg",
+        "WATERWAY": "Sukkwan Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.198601415,
+        "LONG": -132.819088826
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.64813017467839,
+          55.34134125919001
+        ]
+      },
+      "properties": {
+        "FID": 141,
+        "NAME": "Ketchikan",
+        "WATERWAY": "Tongass Narrows",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.341336618,
+        "LONG": -131.648111442
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.57395971159806,
+          55.1299890706058
+        ]
+      },
+      "properties": {
+        "FID": 142,
+        "NAME": "Metlakatla",
+        "WATERWAY": "Port Chester Bay",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.125960834,
+        "LONG": -131.561635227
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.53230075842674,
+          53.892773182510915
+        ]
+      },
+      "properties": {
+        "FID": 143,
+        "NAME": "Dutch Harbor",
+        "WATERWAY": "Iliuliuk Harbor/ Dutch Harbor",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 53.892773368,
+        "LONG": -166.532282693
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.7718748607216,
+          54.133817996426195
+        ]
+      },
+      "properties": {
+        "FID": 144,
+        "NAME": "Akutan",
+        "WATERWAY": "Akutan Harbor",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 54.134026185,
+        "LONG": -165.783633803
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.3245835783363,
+          55.05768276045215
+        ]
+      },
+      "properties": {
+        "FID": 145,
+        "NAME": "King Cove",
+        "WATERWAY": "King Cove",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 55.057682504,
+        "LONG": -162.324564602
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.96690957399912,
+          56.80805088226086
+        ]
+      },
+      "properties": {
+        "FID": 146,
+        "NAME": "Petersburg",
+        "WATERWAY": "Wrangell Narrows",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 56.810021191,
+        "LONG": -132.978185763
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.3856149820952,
+          56.47304845235796
+        ]
+      },
+      "properties": {
+        "FID": 147,
+        "NAME": "Wrangell",
+        "WATERWAY": "Wrangell Harbor/ Zimovia Strait",
+        "STATE": "AK",
+        "STATE_FIPS": "02",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "USACE",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 56.455126518,
+        "LONG": -132.382060934
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25771854355077,
+          44.98194758448278
+        ]
+      },
+      "properties": {
+        "FID": 148,
+        "NAME": "Minneapolis",
+        "WATERWAY": "Mississippi River",
+        "STATE": "MN",
+        "STATE_FIPS": 27,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.98193959,
+        "LONG": -93.257710794
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03679207955923,
+          42.32715367274008
+        ]
+      },
+      "properties": {
+        "FID": 149,
+        "NAME": "Detroit",
+        "WATERWAY": "Great Lakes",
+        "STATE": "MI",
+        "STATE_FIPS": 26,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.327145498,
+        "LONG": -83.03678767
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.65247018997557,
+          42.49906750942979
+        ]
+      },
+      "properties": {
+        "FID": 150,
+        "NAME": "Dubuque",
+        "WATERWAY": "Mississippi River",
+        "STATE": "IA",
+        "STATE_FIPS": 19,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 42.499059728,
+        "LONG": -90.652463495
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65957444850271,
+          41.84717576365921
+        ]
+      },
+      "properties": {
+        "FID": 151,
+        "NAME": "Chicago",
+        "WATERWAY": "Des Plaines River",
+        "STATE": "IL",
+        "STATE_FIPS": 17,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 41.847167917,
+        "LONG": -87.659568693
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.00089214616192,
+          40.434435310884716
+        ]
+      },
+      "properties": {
+        "FID": 152,
+        "NAME": "Pittsburgh",
+        "WATERWAY": "Monongahela River",
+        "STATE": "PA",
+        "STATE_FIPS": 42,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 40.434427343,
+        "LONG": -80.000888828
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.57963522070423,
+          40.68743663980903
+        ]
+      },
+      "properties": {
+        "FID": 153,
+        "NAME": "Peoria",
+        "WATERWAY": "Illinois River",
+        "STATE": "IL",
+        "STATE_FIPS": 17,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 40.6874291,
+        "LONG": -89.579629021
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.09627468427631,
+          40.80205929330933
+        ]
+      },
+      "properties": {
+        "FID": 154,
+        "NAME": "Burlington",
+        "WATERWAY": "Mississippi River",
+        "STATE": "IL",
+        "STATE_FIPS": 17,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 40.80205182,
+        "LONG": -91.096268042
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.46229248019539,
+          39.120898969085154
+        ]
+      },
+      "properties": {
+        "FID": 155,
+        "NAME": "Cincinnati",
+        "WATERWAY": "Ohio River",
+        "STATE": "KY",
+        "STATE_FIPS": 21,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 39.120891452,
+        "LONG": -84.462287909
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63109704176509,
+          38.34323981283783
+        ]
+      },
+      "properties": {
+        "FID": 156,
+        "NAME": "Charleston",
+        "WATERWAY": "Kanawha River",
+        "STATE": "WV",
+        "STATE_FIPS": 54,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.343232321,
+        "LONG": -81.631093374
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.60772044655438,
+          39.114523776223784
+        ]
+      },
+      "properties": {
+        "FID": 157,
+        "NAME": "Kansas City",
+        "WATERWAY": "Missouri River",
+        "STATE": "MO",
+        "STATE_FIPS": 29,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 39.114516792,
+        "LONG": -94.607713003
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75811009055514,
+          38.26459734223737
+        ]
+      },
+      "properties": {
+        "FID": 158,
+        "NAME": "Louisville",
+        "WATERWAY": "Ohio River",
+        "STATE": "KY",
+        "STATE_FIPS": 21,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.264590049,
+        "LONG": -85.758105203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.17984587550595,
+          38.625256854064475
+        ]
+      },
+      "properties": {
+        "FID": 159,
+        "NAME": "Saint Louis",
+        "WATERWAY": "Mississippi River",
+        "STATE": "MO",
+        "STATE_FIPS": 29,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.625249712,
+        "LONG": -90.179839692
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.88189577088,
+          38.32742548021213
+        ]
+      },
+      "properties": {
+        "FID": 160,
+        "NAME": "New Athens",
+        "WATERWAY": "Kaskaskia River",
+        "STATE": "IL",
+        "STATE_FIPS": 17,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.327418377,
+        "LONG": -89.881889696
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51771211105961,
+          36.54384485935448
+        ]
+      },
+      "properties": {
+        "FID": 161,
+        "NAME": "Celina",
+        "WATERWAY": "Cumberland River",
+        "STATE": "TN",
+        "STATE_FIPS": 47,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.543837892,
+        "LONG": -85.517707415
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.77675798581265,
+          36.170226783123184
+        ]
+      },
+      "properties": {
+        "FID": 162,
+        "NAME": "Nashville",
+        "WATERWAY": "Cumberland River",
+        "STATE": "TN",
+        "STATE_FIPS": 47,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.170219945,
+        "LONG": -86.776752952
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71388906565447,
+          36.20931834806231
+        ]
+      },
+      "properties": {
+        "FID": 163,
+        "NAME": "Catoosa",
+        "WATERWAY": "Verdigris River/ Arkansas River",
+        "STATE": "OK",
+        "STATE_FIPS": 40,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.209311929,
+        "LONG": -95.713881582
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.98796911464542,
+          36.10433569623419
+        ]
+      },
+      "properties": {
+        "FID": 164,
+        "NAME": "Tulsa",
+        "WATERWAY": "Arkansas River",
+        "STATE": "OK",
+        "STATE_FIPS": 40,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.10432931,
+        "LONG": -95.987961568
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06671081338999,
+          35.15118301335829
+        ]
+      },
+      "properties": {
+        "FID": 165,
+        "NAME": "Memphis",
+        "WATERWAY": "Mississippi River",
+        "STATE": "AR",
+        "STATE_FIPS": "05",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 35.151176522,
+        "LONG": -90.066704922
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9734025856491,
+          34.612880783928965
+        ]
+      },
+      "properties": {
+        "FID": 166,
+        "NAME": "Decatur",
+        "WATERWAY": "Tennessee River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 34.612874269,
+        "LONG": -86.973397594
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81719364359141,
+          33.78577560870325
+        ]
+      },
+      "properties": {
+        "FID": 167,
+        "NAME": "Port Birmingham",
+        "WATERWAY": "Black Warrior River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 33.785769259,
+        "LONG": -86.817188744
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.11209811867529,
+          33.41808595677569
+        ]
+      },
+      "properties": {
+        "FID": 168,
+        "NAME": "Greenville",
+        "WATERWAY": "Mississippi River",
+        "STATE": "MS",
+        "STATE_FIPS": 28,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 33.418079855,
+        "LONG": -91.112092049
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31708705694608,
+          32.381816176796285
+        ]
+      },
+      "properties": {
+        "FID": 169,
+        "NAME": "Montgomery",
+        "WATERWAY": "Alabama River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.381810107,
+        "LONG": -86.317082373
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.84359314304513,
+          32.518693540505524
+        ]
+      },
+      "properties": {
+        "FID": 170,
+        "NAME": "Demopolis",
+        "WATERWAY": "Tombigbee River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.518687497,
+        "LONG": -87.843588023
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1286374458375,
+          32.50849190594656
+        ]
+      },
+      "properties": {
+        "FID": 171,
+        "NAME": "Monroe",
+        "WATERWAY": "Ouachita River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.508486029,
+        "LONG": -92.128631154
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.90169638633569,
+          32.32291093693383
+        ]
+      },
+      "properties": {
+        "FID": 172,
+        "NAME": "Vicksburg",
+        "WATERWAY": "Mississippi River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 32.32290505,
+        "LONG": -90.901690435
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.41327662806236,
+          31.563897432351446
+        ]
+      },
+      "properties": {
+        "FID": 173,
+        "NAME": "Natchez",
+        "WATERWAY": "Mississippi River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 31.563891722,
+        "LONG": -91.413270578
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.03598411199786,
+          30.69482323289515
+        ]
+      },
+      "properties": {
+        "FID": 174,
+        "NAME": "Mobile",
+        "WATERWAY": "Tombigbee River",
+        "STATE": "AL",
+        "STATE_FIPS": "01",
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.69481759,
+        "LONG": -88.035979026
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.21269023701612,
+          30.401212434958612
+        ]
+      },
+      "properties": {
+        "FID": 175,
+        "NAME": "Pensacola",
+        "WATERWAY": "Pensacola Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.40120683,
+        "LONG": -87.212685393
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6627267647471,
+          30.147567073932862
+        ]
+      },
+      "properties": {
+        "FID": 176,
+        "NAME": "Panama City",
+        "WATERWAY": "St. Andrew Bay",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.147561477,
+        "LONG": -85.662722367
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66816743450269,
+          29.85070531843416
+        ]
+      },
+      "properties": {
+        "FID": 177,
+        "NAME": "Carrabelle",
+        "WATERWAY": "St. George Sound",
+        "STATE": "FL",
+        "STATE_FIPS": 12,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.850699759,
+        "LONG": -84.668163331
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88856772305047,
+          30.390266253953897
+        ]
+      },
+      "properties": {
+        "FID": 178,
+        "NAME": "Biloxi",
+        "WATERWAY": "Biloxi Bay",
+        "STATE": "MS",
+        "STATE_FIPS": 28,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 30.390260706,
+        "LONG": -88.888562415
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.05857164876306,
+          29.948616360297425
+        ]
+      },
+      "properties": {
+        "FID": 179,
+        "NAME": "New Orleans",
+        "WATERWAY": "Mississippi River",
+        "STATE": "LA",
+        "STATE_FIPS": 22,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.948610947,
+        "LONG": -90.05856604
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.32821803962412,
+          29.759843722394496
+        ]
+      },
+      "properties": {
+        "FID": 180,
+        "NAME": "Houston",
+        "WATERWAY": "Buffalo Bayou",
+        "STATE": "TX",
+        "STATE_FIPS": 48,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": "Gulf Intracoastal Waterway",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 29.759838524,
+        "LONG": -95.328211047
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.80043173458822,
+          45.05473288181363
+        ]
+      },
+      "properties": {
+        "FID": 181,
+        "NAME": "Stillwater",
+        "WATERWAY": "Saint Croix River",
+        "STATE": "MN",
+        "STATE_FIPS": 27,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.054724845,
+        "LONG": -92.800424106
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44681993572645,
+          38.42451562607912
+        ]
+      },
+      "properties": {
+        "FID": 182,
+        "NAME": "Huntington",
+        "WATERWAY": "Ohio River",
+        "STATE": "WV",
+        "STATE_FIPS": 54,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 38.424508153,
+        "LONG": -82.446816017
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0929496619423,
+          44.94189989107548
+        ]
+      },
+      "properties": {
+        "FID": 183,
+        "NAME": "Saint Paul",
+        "WATERWAY": "Mississippi River",
+        "STATE": "MN",
+        "STATE_FIPS": 27,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 44.941891891,
+        "LONG": -93.092941965
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01641939564207,
+          46.42170305060677
+        ]
+      },
+      "properties": {
+        "FID": 184,
+        "NAME": "Lewiston",
+        "WATERWAY": "Snake River",
+        "STATE": "ID",
+        "STATE_FIPS": 16,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.421696948,
+        "LONG": -117.016405693
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.11425624648203,
+          46.223565210672305
+        ]
+      },
+      "properties": {
+        "FID": 185,
+        "NAME": "Kennewick-Pasco",
+        "WATERWAY": "Columbia River",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.223559336,
+        "LONG": -119.114242206
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67074961078177,
+          45.61954659223711
+        ]
+      },
+      "properties": {
+        "FID": 186,
+        "NAME": "Vancouver",
+        "WATERWAY": "Columbia River",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.619541121,
+        "LONG": -122.670735109
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6687419525257,
+          45.52385415892296
+        ]
+      },
+      "properties": {
+        "FID": 187,
+        "NAME": "Portland",
+        "WATERWAY": "Willamette River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 45.523848693,
+        "LONG": -122.668727471
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91813382730663,
+          46.13617124760033
+        ]
+      },
+      "properties": {
+        "FID": 188,
+        "NAME": "Longview",
+        "WATERWAY": "Columbia River",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.136165773,
+        "LONG": -122.918119177
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93590113964687,
+          46.092779053345716
+        ]
+      },
+      "properties": {
+        "FID": 189,
+        "NAME": "Rainier",
+        "WATERWAY": "Columbia River",
+        "STATE": "OR",
+        "STATE_FIPS": 41,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.092773583,
+        "LONG": -122.935886496
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85107590459253,
+          46.009821784626716
+        ]
+      },
+      "properties": {
+        "FID": 190,
+        "NAME": "Kalama",
+        "WATERWAY": "Columbia River",
+        "STATE": "WA",
+        "STATE_FIPS": 53,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "InlandWaterPorts from NETS",
+        "SECONDARY_": " ",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 46.00981631,
+        "LONG": -122.851061292
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35047432326483,
+          36.974324885647086
+        ]
+      },
+      "properties": {
+        "FID": 191,
+        "NAME": "Norfolk - Hampton Roads",
+        "WATERWAY": "Chesapeake Bay",
+        "STATE": "VA",
+        "STATE_FIPS": 51,
+        "GNIS_ID": 0,
+        "GNIS_NAME": " ",
+        "SOURCE": "GNISpointsByUrbanCenterGrouping",
+        "SECONDARY_": "Atlantic Ocean",
+        "SOURCE_LAT": 0,
+        "SOURCE_LON": 0,
+        "LAT": 36.974317473,
+        "LONG": -76.350472351
+      }
+    }
+  ]
+}
