@@ -2,7 +2,7 @@
 
 # Get the same information from the command line
 
-| |Most of the info displayed by System Monitor can also be obtained using these command line tools.|
+| |sysinfo can be obtained using CL|
 -|-
 `top` |provides a continually updated list of running processes, and allows you to manipulate them.
 `lsof` |provides a list of open files and the processes that opened them.
@@ -11,5 +11,5 @@
 `df -h`  |displays available disk space on mounted filesystems.
 `pmap`    |displays the memory map of a process.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzUyNzc3OV19
+eyJoaXN0b3J5IjpbLTIwNDg1NDkwNjNdfQ==
 -->
