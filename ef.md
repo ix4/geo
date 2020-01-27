@@ -10,6 +10,3 @@
 `vmstat` |provides information about current virtual memory use.
 `df -h`  |displays available disk space on mounted filesystems.
 `pmap`    |displays the memory map of a process.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg1NDkwNjNdfQ==
--->
